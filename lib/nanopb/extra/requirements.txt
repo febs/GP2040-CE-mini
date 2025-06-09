@@ -1,2 +1,2 @@
-protobuf>=3.19
+protobuf==3.20.*
 grpcio-tools>=1.47.0
